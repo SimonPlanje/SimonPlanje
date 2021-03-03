@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<br>
+
 🧑‍💼 Currently doing an intership at [Follow The Money](https://www.ftm.nl/) as front-End devlopper
 
 <!--
