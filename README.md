@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img align='left' width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=simonplanje&show_icons=true&theme=dracula">
+  <img align='left' width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=simonplanje&show_icons=true&theme=ayu-mirage">
   
   <a href="https://github.com/simonplanje">
       <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonplanje&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515">
