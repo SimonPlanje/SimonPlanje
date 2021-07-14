@@ -10,16 +10,17 @@
 
 <br>
 
-🧑‍💼 Currently doing an intership at [Follow The Money](https://www.ftm.nl/) as front-End devlopper
+- 🔭 I’m currently working for [Follow The Money](https://www.ftm.nl/) as front- and back-End devloper
+- 🌱 I’m currently learning ineracting with databases using a PHP/symfony project
+
 
 <!--
 **SimonPlanje/SimonPlanje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
