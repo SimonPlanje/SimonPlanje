@@ -11,7 +11,7 @@
 <br>
 
 - 🔭 I’m currently working for [Follow The Money](https://www.ftm.nl/) as front- and back-End devloper
-- 🌱 I’m currently learning interacting with databases using a PHP/symfony project
+- 🌱 I’m currently learning to interact with databases using a PHP and symfony
 
 
 <!--
